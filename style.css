@@ -1,0 +1,43 @@
+#box{
+	padding: 0;
+	background-color: black;
+}
+
+
+h2{
+	z-index: 2;
+    height: 30%;
+    width: 50%;
+    margin: -10% 0 0 -20%;
+    background: transparent;
+ 	font-family:'Alegreya Sans SC', sans-serif;
+ 	text-transform: uppercase;
+ 	color:white;
+ 	
+}
+
+h1{
+	z-index: 2;
+    height: 30%;
+    width: 50%;
+    margin: -10% 0 0 -20%;
+    background: transparent;
+ 	font-family:'Alegreya Sans SC', sans-serif;
+ 	text-transform: uppercase;
+ 	color:white;
+ 	
+}
+
+
+
+
+
+img{
+	z-index: 2;
+	margin: 0;
+	padding: 0;
+}
+
+.imagenes{
+	opacity: 0.5;
+}
